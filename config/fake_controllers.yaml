@@ -1,0 +1,9 @@
+controller_list:
+  - name: fake_Arm_controller
+    joints:
+      - art1_yaw
+      - art2_pitch
+      - art3_pitch
+      - art4_roll
+      - art5_pitch
+      - art6_roll
