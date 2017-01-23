@@ -1,6 +1,8 @@
 # thor_arm_moveit
 ROS MoveIt configuration for [Thor open source robot arm](https://github.com/AngelLM/Thor).
 
+![Thor arm control using ROS's RVIZ](doc/moveit_thor.png)
+
 # Required packages
 - [Robot Operating System](http://www.ros.org/)
 - [MoveIt](http://moveit.ros.org/)
